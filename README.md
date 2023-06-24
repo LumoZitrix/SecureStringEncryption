@@ -16,3 +16,9 @@ Features:
 - Modular Code
 - Secure byte secure string
 - ( no dependencies or nugets  )
+
+- type of encryption
+- aes.KeySize = 256;
+- aes.BlockSize = 128;
+- aes.Mode = CipherMode.CBC;
+- aes.Padding = PaddingMode.PKCS7;
