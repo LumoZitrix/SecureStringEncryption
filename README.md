@@ -1,5 +1,5 @@
 # SecureStringEncryption
-Custom encryption no library, use SecureString and strong and safe crypt and decrypt form memory
+Secure encryption w/o API, SecureString + byte array hidden from memory. (NativeAot comp.)
 
 Features:
 - Strong Random Iterations
