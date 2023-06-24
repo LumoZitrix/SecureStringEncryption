@@ -1,0 +1,15 @@
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\bin\Debug\net6.0\SecureStringEncryption.exe
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\bin\Debug\net6.0\SecureStringEncryption.deps.json
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\bin\Debug\net6.0\SecureStringEncryption.runtimeconfig.json
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\bin\Debug\net6.0\SecureStringEncryption.dll
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\bin\Debug\net6.0\SecureStringEncryption.pdb
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\obj\Debug\net6.0\SecureStringEncryption.csproj.AssemblyReference.cache
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\obj\Debug\net6.0\SecureStringEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\obj\Debug\net6.0\SecureStringEncryption.AssemblyInfoInputs.cache
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\obj\Debug\net6.0\SecureStringEncryption.AssemblyInfo.cs
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\obj\Debug\net6.0\SecureStringEncryption.csproj.CoreCompileInputs.cache
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\obj\Debug\net6.0\SecureStringEncryption.dll
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\obj\Debug\net6.0\refint\SecureStringEncryption.dll
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\obj\Debug\net6.0\SecureStringEncryption.pdb
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\obj\Debug\net6.0\SecureStringEncryption.genruntimeconfig.cache
+C:\Users\lumoz\source\repos\SecureStringEncryption\SecureStringEncryption\obj\Debug\net6.0\ref\SecureStringEncryption.dll
