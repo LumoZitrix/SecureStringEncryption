@@ -3,6 +3,7 @@ Custom encryption no library, use SecureString and strong and safe crypt and dec
 
 Features:
 - Strong Random Iterations
+- password to derive the key
 - Random IV
 - Random Salt
 - Validate HMAC
