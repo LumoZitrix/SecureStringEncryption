@@ -8,6 +8,7 @@ Features:
 - Validate HMAC
 - Constant Time Comparison protection
 - Custom Memory Cleaner (anti-process hacker)
+- (password and decrypted string never stay in memory)
 - Strong SHA (512)
 - Simple Config
 - Secure Encryption Byte
