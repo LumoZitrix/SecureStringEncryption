@@ -13,4 +13,4 @@ features
 • Simple Confing
 • Secure Encryption Byte
 • Secure Decryption Byte
-• Modular Code
+• Modular Code.
