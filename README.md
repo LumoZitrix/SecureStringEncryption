@@ -13,4 +13,5 @@ Features:
 - Secure Encryption Byte
 - Secure Decryption Byte
 - Modular Code
+- Secure byte secure string
 - ( no dependencies or nugets  )
