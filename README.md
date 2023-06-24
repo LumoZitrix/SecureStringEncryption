@@ -23,3 +23,5 @@ Type of encryption
 - aes.BlockSize = 128;
 - aes.Mode = CipherMode.CBC;
 - aes.Padding = PaddingMode.PKCS7;
+
+![image](https://github.com/LumoZitrix/SecureStringEncryption/assets/66798139/bc2ddc68-070c-4dfc-97b0-568a214da879)
